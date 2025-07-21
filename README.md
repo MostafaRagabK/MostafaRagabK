@@ -37,12 +37,18 @@
 
 ###
 
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNjc3MxbHdlbHE4OHBncXh6c3ZtcXR4cmwwM2N5N2k5NnppMGo4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vrmES9OrDZlUkOXo9C/giphy.gif"  />
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNjc3MxbHdlbHE4OHBncXh6c3ZtcXR4cmwwM2N5N2k5NnppMGo4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vrmES9OrDZlUkOXo9C/giphy.gif"  />
+</div>
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVrOTFhcnh1Z2loMjFsaDZmNTBrMHMzbWtmd3BkdzJueng0dGxmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif"  />
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2poZ2xxdXA3dzFkcnBocG5oZWlseWU3Mnlmb3YzMjhuYm0zZnk4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gh0RRgkTXedvF0pDc0/giphy.gif"  />
 </div>
 
 ###
