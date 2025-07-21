@@ -37,8 +37,12 @@
 
 ###
 
+<img align="right" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2poZ2xxdXA3dzFkcnBocG5oZWlseWU3Mnlmb3YzMjhuYm0zZnk4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gh0RRgkTXedvF0pDc0/giphy.gif"  />
+
+###
+
 <div align="center">
-  <img height="332" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2poZ2xxdXA3dzFkcnBocG5oZWlseWU3Mnlmb3YzMjhuYm0zZnk4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gh0RRgkTXedvF0pDc0/giphy.gif"  />
+  <img height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRtY3IwYnNneWdza3lmOGVuanRnZWhhNXIwZGszOHVzcHJsY3B6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rDFVedKFBZ0NdEiHBU/giphy.gif"  />
 </div>
 
 ###
